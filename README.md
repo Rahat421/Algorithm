@@ -1,5 +1,6 @@
 # Algorithm
 
-#Dynamic Programming
+# Dynamic Programming
 
-[Edit Distance](https://github.com/Rahat421/Algorithm/blob/master/Dynamic_Programming/Edit_Distance.cpp)
+* [Edit Distance](https://github.com/Rahat421/Algorithm/blob/master/Dynamic_Programming/Edit_Distance.cpp)
+* [LCS](https://github.com/Rahat421/Algorithm/blob/master/Dynamic_Programming/Edit_Distance.cpp)
